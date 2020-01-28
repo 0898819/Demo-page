@@ -1,0 +1,13 @@
+body {
+  padding-top: 50px;
+  background-color: #F6F6F6;
+}
+
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background: linear-gradient(200deg, #4975C1, #49b8c1);
+  animation: change 10s;
+}
+
+.cover {
+}
+
